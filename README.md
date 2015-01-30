@@ -1,2 +1,0 @@
-# HapticFeedbackLab
-Haptic Feedback Lab
